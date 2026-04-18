@@ -10,5 +10,6 @@
 
 ## Circle Ruse Updates
 
+- [2026-04-18](https://forum.logos.co/t/logos-circle-ruse-3)
 - [2026-03-21](https://forum.logos.co/t/logos-circle-ruse-2)
 - [2026-01-24](https://forum.logos.co/t/logos-circle-ruse-1)
